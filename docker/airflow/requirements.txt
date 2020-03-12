@@ -48,7 +48,7 @@ ordereddict==1.1
 pandas==0.22.0
 pbr==3.1.1
 pg8000==1.11.0
-psutil==4.4.2
+psutil==5.6.6
 psycopg2==2.7.4
 py==1.5.2
 pycparser==2.18
