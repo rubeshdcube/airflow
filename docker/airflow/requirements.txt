@@ -52,7 +52,7 @@ psutil==4.4.2
 psycopg2==2.7.4
 py==1.5.2
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==17.5.0
 pytest==3.2.3
 python-daemon==2.1.2
