@@ -15,7 +15,7 @@ croniter==0.3.20
 cryptography==2.1.4
 dill==0.2.7.1
 docutils==0.14
-eventlet==0.22.1
+eventlet==0.31.0
 filechunkio==1.8
 Flask==0.11.1
 Flask-Admin==1.4.1
